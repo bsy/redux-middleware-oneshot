@@ -4,8 +4,7 @@
   "description": "Create a middleware",
   "main": "lib/index.js",
   "scripts": {
-    "test": "make ci",
-    "install": "make build lint"
+    "test": "make ci"
   },
   "repository": {
     "type": "git",
